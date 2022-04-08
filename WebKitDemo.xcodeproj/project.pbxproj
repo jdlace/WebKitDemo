@@ -13,6 +13,7 @@
 		29361ED128008ED8006282AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29361ECF28008ED8006282AD /* Main.storyboard */; };
 		29361ED328008ED9006282AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29361ED228008ED9006282AD /* Assets.xcassets */; };
 		29361ED628008ED9006282AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29361ED428008ED9006282AD /* LaunchScreen.storyboard */; };
+		29361EDE28008FE5006282AD /* WXViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29361EDD28008FE5006282AD /* WXViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		29361ED228008ED9006282AD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		29361ED528008ED9006282AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		29361ED728008ED9006282AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		29361EDD28008FE5006282AD /* WXViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WXViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				29361EC928008ED8006282AD /* AppDelegate.swift */,
 				29361ECB28008ED8006282AD /* SceneDelegate.swift */,
 				29361ECD28008ED8006282AD /* ViewController.swift */,
+				29361EDD28008FE5006282AD /* WXViewController.swift */,
 				29361ECF28008ED8006282AD /* Main.storyboard */,
 				29361ED228008ED9006282AD /* Assets.xcassets */,
 				29361ED428008ED9006282AD /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				29361ECE28008ED8006282AD /* ViewController.swift in Sources */,
 				29361ECA28008ED8006282AD /* AppDelegate.swift in Sources */,
 				29361ECC28008ED8006282AD /* SceneDelegate.swift in Sources */,
+				29361EDE28008FE5006282AD /* WXViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
